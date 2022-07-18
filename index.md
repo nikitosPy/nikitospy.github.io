@@ -38,4 +38,4 @@ _Если ни один пункт не сработал, пишите в тех
 [Переход на сервер поддержки](https://discord.gg/6U9MA82RUy)
 
 # Напомним, это бета-версия сайта, ниже ничего интересного нет.
-![Image](https://github.com/nikitosPy/goldymine/avatar.jpeg)
+![Avatar](https://github.com/nikitosPy/goldymine/blob/gh-pages/images%20(1).jpeg)
