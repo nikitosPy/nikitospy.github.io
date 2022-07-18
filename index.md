@@ -1,11 +1,11 @@
-## Пустота и это ад
-На данный момент сайт пуст, MrGoldy и [ТАБ]LET[O4]KA работают над ним =3
+## Добро Пожаловать на Страничку Бота GoldyBot!
+На данный момент сайт на бета-тестировании, MrGoldy и [ТАБ]LET[O4]KA работают над ним =3
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Этот сайт - тех. поддержка Бота GoldyBot, Тут вы можете написать нам в тех. поддержку и узнать обновления бота! Если тех. поддержка не будет работать пишите вручную в нам в дискорд бота: *ссылка не доступна пока что*
 
-### Markdown
+### Что нового в Боте?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Пока сайт на бета-тестировании, мы не будем писать что нового в нашем боте.
 
 
 Syntax highlighted code block
