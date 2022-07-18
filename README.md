@@ -1,0 +1,2 @@
+# goldymine
+GoldyBot
