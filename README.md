@@ -1,2 +1,2 @@
-# goldymine
-GoldyBot
+# GoldyBot
+goldymine.tk
