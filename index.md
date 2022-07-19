@@ -61,4 +61,21 @@
 [Переход на сервер поддержки](https://discord.gg/6U9MA82RUy)
 
 # Напомним, это бета-релиз сайта, ниже ничего интересного нет.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### soon
 ![Avatar](https://raw.githubusercontent.com/nikitosPy/goldy/gh-pages/images%20(1).jpeg)
