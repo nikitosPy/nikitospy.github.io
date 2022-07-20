@@ -1,2 +1,2 @@
-# GoldyBot
-goldymine.tk
+# Страничка GoldyBot
+#### goldymine.tk
