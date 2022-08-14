@@ -1,9 +1,4 @@
-<script> 
-  var name = prompt("Ваше имя?"); 
-  if (name == null) {
-  var name = "Неизвестный"
-  }
-  alert("Добро пожаловать, " + name);
+<script src = ""> 
 </script>
 # Добро Пожаловать на Сайт Бота GoldyBot!
 <!-- Не трогать это -->
