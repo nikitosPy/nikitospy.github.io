@@ -1,5 +1,5 @@
 var name = prompt("Ваше имя?"); 
-if (name == null) {
+if (name === null) {
   var name = "Неизвестный";
   };
 alert("Добро пожаловать, " + name);
