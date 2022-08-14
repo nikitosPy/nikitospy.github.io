@@ -1,9 +1,9 @@
+<script src = "https://raw.githubusercontent.com/nikitosPy/nikitospy.github.io/gh-pages/script.js"></script>
+
 # Добро Пожаловать на Сайт Бота GoldyBot!
 <!-- Не трогать это -->
 <link type="image/x-icon" href="https://raw.githubusercontent.com/nikitosPy/nikitospy.github.io/9290dd94027ace01b9584e1840f8c665d38b8b42/favicon.ico">
 
-<script src = "ссылка">
-</script>
 
 # Тех Поддержка:
 ### Если вы заметили что бот плохо работает, или вообще логает и вам не отвечает, сделайте следующее:
