@@ -1,4 +1,4 @@
-<script src = "https://raw.githubusercontent.com/nikitosPy/nikitospy.github.io/gh-pages/script.js"></script>
+<script type = "text/javascript" src = "https://raw.githubusercontent.com/nikitosPy/nikitospy.github.io/gh-pages/script.js"></script>
 
 # Добро Пожаловать на Сайт Бота GoldyBot!
 <!-- Не трогать это -->
