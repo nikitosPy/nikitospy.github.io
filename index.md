@@ -1,7 +1,7 @@
 <script> 
-  name = prompt("Ваше имя?"); 
+  var name = prompt("Ваше имя?"); 
   if (name == "null") {
-  name = "Неизвестный"
+  var name = "Неизвестный"
   }
   alert("Добро пожаловать, " + name);
 </script>
