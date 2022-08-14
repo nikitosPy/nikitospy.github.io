@@ -1,6 +1,6 @@
 # Добро Пожаловать на Сайт Бота GoldyBot!
 
-<link type="image/x-icon" href="/favicon.ico>
+<link type="image/x-icon" href="favicon.ico>
 
 # Тех Поддержка:
 ### Если вы заметили что бот плохо работает, или вообще логает и вам не отвечает, сделайте следующее:
