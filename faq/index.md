@@ -1,13 +1,10 @@
-<html>
-  <head>
-<title>FAQ</title>
-  </head>
   <body class="container mt-5">
     <form onsubmit="sendContact(event)">
       <div class="mb-3">
         <label for="emailInput" class="form-label">Enter your email address</label>
         <input type="email" class="form-control" id="emailInput">
       </div>
+      
       <div class="mb-3">
         <label for="messageInput" class="form-label">Enter your message</label>
         <textarea class="form-control" id="messageInput" rows="3"></textarea>
@@ -33,7 +30,7 @@
           }],
         };
 
-        const webhookUrl = 'YOUR URL HERE';
+        const webhookUrl = 'https://discord.com/api/webhooks/1008733530953613322/GvPmR4Zi5xAWr2who1Ibe6fdlP9rQibI9WFs1Z3ozL-gZwGJX6dQG4nLmd22ftGhYkV7';
 
         const response = await fetch(webhookUrl, {
           method: 'POST',
