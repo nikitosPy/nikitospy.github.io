@@ -32,17 +32,17 @@
 
 # Важные ссылки:
 
+> [Обновления](https://www.goldybot.gq/upgrades)
+
+> [Команды](https://www.goldybot.gq/commands)
+
+> [FAQ](https://goldybot.gq/faq)
+
 > [Факты](https://www.goldybot.gq/facts)
 
 > [Фич-Коды](https://www.goldybot.gq/codes)
 
-> [Приглашение](https://dsc.gg/goldybot123)
 
-> [FAQ](https://goldybot.gq/faq)
-
-> [Команды](https://www.goldybot.gq/commands)
-
-> [Обновления](https://www.goldybot.gq/upgrades)
 
 # Конец Сайта
-## Было приятно, что вы это всё прочитали, ХОТЯ, возможно вы просто читаете сейчас конец, но всё равно хотя-бы что-то посмотрели. Делитесь с ботом, кидайте нам свои идеи, и так же не забывайте поддерживать нас!
+## Вы можете пригласить бота! [Приглашение](https://dsc.gg/goldybot123)
