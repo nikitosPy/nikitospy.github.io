@@ -1,5 +1,7 @@
+window.onload = function(){
 var name = prompt("Ваше имя?"); 
-if (name === null) {
-  var name = "Неизвестный";
+if (name === null || name === undefined) {
+  name = "Неизвестный";
   };
-alert("Добро пожаловать, " + name);
+
+alert("Добро пожаловать, " + name);}
