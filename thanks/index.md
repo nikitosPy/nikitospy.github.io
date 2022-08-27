@@ -26,4 +26,4 @@
 
 - человекDiรc0rd♦#9537
 
-- coffee|nikto#3727
+- coffee/nikto#3727
