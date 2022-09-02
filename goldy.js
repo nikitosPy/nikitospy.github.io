@@ -4,5 +4,4 @@ if (name === undefined || name == null) {
   name = "Неизвестный";
   };
 
-alert("Добро пожаловать, " + name);
-document.getElementById("name").innerHTML = name;}
+alert("Добро пожаловать, " + name);};
