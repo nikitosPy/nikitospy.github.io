@@ -1,6 +1,6 @@
 window.onload = function(){
 var name = prompt("Ваше имя?"); 
-if (name === undefined) {
+if (name === undefined || name == null) {
   name = "Неизвестный";
   };
 
