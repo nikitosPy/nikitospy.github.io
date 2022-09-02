@@ -33,13 +33,13 @@
 
 # Важные ссылки:
 
-> [Обновления](https://www.goldybot.gq/upgrades)
+> [Обновления](/upgrades)
 
-> [Команды](https://www.goldybot.gq/commands)
+> [Команды](/commands)
 
-> [FAQ](https://goldybot.gq/faq)
+> [FAQ](/faq)
 
-> [Факты](https://www.goldybot.gq/facts)
+> [Факты](/facts)
 
 
 
