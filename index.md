@@ -25,7 +25,8 @@
 ![image](https://user-images.githubusercontent.com/109531794/189470894-8cf1af05-3b9b-4ace-8e66-c247e03a4323.png)
 
 > trynder - главный дизайнер.
-![image](https://user-images.githubusercontent.com/109531794/189470909-7e875644-4de8-473a-9f74-c51c94da899a.png)
+![image](https://user-images.githubusercontent.com/109531794/189470951-cdb099a5-f95d-4012-978d-0a12624d7b73.png)
+
 
 
 # Важные ссылки:
