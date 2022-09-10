@@ -14,16 +14,17 @@
 #### О администраторах бота и сайта:
 
 > BoyFriend – главный администратор, разработчик бота и главный менеджер сайта.
-![image](https://user-images.githubusercontent.com/109531794/189470853-e72048fa-98ed-4dbe-966f-67c20fbf2e71.png)
+![image](https://user-images.githubusercontent.com/109531794/189481262-01df7639-b27f-4882-9fdc-6652bd07fc5b.png)
 
 > Avo_Kado – главный администратор и главный разработчик бота.
-![image](https://user-images.githubusercontent.com/109531794/189470881-f6e8132d-8006-4195-b280-dd5128cfab52.png)
+![image](https://user-images.githubusercontent.com/109531794/189481275-0e40162a-b3f5-485c-b2a4-c50f68c8b7d3.png)
 
 > Jared_Cansole - администратор тех. поддержки сервера в дискорде.
-![image](https://user-images.githubusercontent.com/109531794/189470894-8cf1af05-3b9b-4ace-8e66-c247e03a4323.png)
+![image](https://user-images.githubusercontent.com/109531794/189481286-aaed1bc4-bf4d-4141-92c5-cde4af0d3aef.png)
 
 > trynder - главный дизайнер.
-![image](https://user-images.githubusercontent.com/109531794/189470951-cdb099a5-f95d-4012-978d-0a12624d7b73.png)
+![image](https://user-images.githubusercontent.com/109531794/189481293-0053c796-a3fb-4e7f-89b0-ece1cb6e2c39.png)
+
 
 
 
