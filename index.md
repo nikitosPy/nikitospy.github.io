@@ -14,18 +14,19 @@
 > Данный бот пока что готов не полностью, но мы, как было написано ранее, обновляем бота каждую неделю!
 
 #### О администраторах бота и сайта:
-![image](https://user-images.githubusercontent.com/109531794/189470853-e72048fa-98ed-4dbe-966f-67c20fbf2e71.png)
 
 > BoyFriend – главный администратор, разработчик бота и главный менеджер сайта.
-![image](https://user-images.githubusercontent.com/109531794/189470881-f6e8132d-8006-4195-b280-dd5128cfab52.png)
+![image](https://user-images.githubusercontent.com/109531794/189470853-e72048fa-98ed-4dbe-966f-67c20fbf2e71.png)
 
 > Avo_Kado – главный администратор и главный разработчик бота.
-![image](https://user-images.githubusercontent.com/109531794/189470894-8cf1af05-3b9b-4ace-8e66-c247e03a4323.png)
+![image](https://user-images.githubusercontent.com/109531794/189470881-f6e8132d-8006-4195-b280-dd5128cfab52.png)
 
 > Jared_Cansole - администратор тех. поддержки сервера в дискорде.
-![image](https://user-images.githubusercontent.com/109531794/189470909-7e875644-4de8-473a-9f74-c51c94da899a.png)
+![image](https://user-images.githubusercontent.com/109531794/189470894-8cf1af05-3b9b-4ace-8e66-c247e03a4323.png)
 
 > trynder - главный дизайнер.
+![image](https://user-images.githubusercontent.com/109531794/189470909-7e875644-4de8-473a-9f74-c51c94da899a.png)
+
 
 # Важные ссылки:
 
